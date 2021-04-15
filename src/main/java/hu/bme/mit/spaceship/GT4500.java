@@ -31,6 +31,7 @@ public class GT4500 implements SpaceShip {
   * 			- If the fired store reports a failure, the ship does not try to fire the other one.
   * 	ALL:	tries to fire both of the torpedo stores.
   *	Additional comment by A
+  *		Additional comment by B
   * @return whether at least one torpedo was fired successfully
   */
   @Override
