@@ -30,7 +30,7 @@ public class GT4500 implements SpaceShip {
   * 			- But if the store next in line is empty, the ship tries to fire the other store.
   * 			- If the fired store reports a failure, the ship does not try to fire the other one.
   * 	ALL:	tries to fire both of the torpedo stores.
-  *
+  *		Additional comment by B
   * @return whether at least one torpedo was fired successfully
   */
   @Override
